@@ -1,2 +1,2 @@
-# Github-Contrubution-Graph-Hack
+# Github-Contribution-Graph-Hack
 Just for fun and educational purpose.
